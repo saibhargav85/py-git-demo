@@ -1,2 +1,2 @@
 def printfun():
-    print("from function")
+    print("msg2 from function")
